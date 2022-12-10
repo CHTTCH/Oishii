@@ -1,0 +1,2 @@
+Oishii is a food recommender Line Bot, using Heroku as the backend to obtain the most relevant restaurants from the
+Google Maps API through the coordinates and keywords that users input, and store them in the Redis database for later display.
